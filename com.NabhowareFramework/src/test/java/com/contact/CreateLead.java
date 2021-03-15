@@ -8,4 +8,9 @@ public class CreateLead
   public void Newlead(){
 	  System.out.println("new lead created");
   }
+  
+  @Test
+  public void Modifylead(){
+	  System.out.println("Modified lead");
+  }
 }
