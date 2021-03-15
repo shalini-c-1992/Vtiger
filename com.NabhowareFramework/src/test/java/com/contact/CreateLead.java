@@ -13,4 +13,8 @@ public class CreateLead
   public void Modifylead(){
 	  System.out.println("Modified lead");
   }
+  @Test
+  public void deletecontact(){
+	  System.out.println("deleted");
+  }
 }
